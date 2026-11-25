@@ -1,0 +1,1 @@
+{"description":"make.fun entry: a 100-word monologue for a fantasy villain who is secretly just very tired","engines":{"node":">=22.18"},"license":"MIT","name":"u-kevin-the-tired-dark-lord-a-100-word-villain-58b4f3cb","private":true,"scripts":{"check":"MAKEFUN_OUTPUT=out/entry.txt node main.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
